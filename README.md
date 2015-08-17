@@ -128,6 +128,10 @@ Ui-kit
 http://www.invisionapp.com/now?utm_source=codrops
 http://graphicburger.com/monobrand-ios-ui-kit-free-sample/
 http://graphicburger.com/icollection-ui-kit/
+
+=====================================================================
+mobile app presentation
+http://codyhouse.co/demo/3d-animated-mockup/index.html#0
 =====================================================================
 
 file upload js
