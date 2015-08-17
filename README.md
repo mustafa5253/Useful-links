@@ -10,7 +10,7 @@ design links
 view port detail of mobile devices
 
 http://viewportsizes.com/?filter=note%203
-
+http://mydevice.io/devices/#sortPhab
 ===================================================================
 css beautyfier
 
