@@ -83,6 +83,7 @@ http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-a
 
 for javascript plugins
 http://www.netzgesta.de
+http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/
 =====================================================================
 
 mega menu
