@@ -189,6 +189,10 @@ touch dialer
 http://anthonyterrien.com/knob/
 
 =========================================================================
+bootstrap plugins
+
+http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/
+=========================================================================
 typerhead (search plugin for input)
 
 http://twitter.github.io/typeahead.js/
