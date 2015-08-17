@@ -566,3 +566,35 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
+- 
+
+
+############################DESIGIN INSIPRATION############################################################
+http://nimbletank.com/
+
+http://lamoulade.com/#!/projects
+
+http://www.soleilnoir.net/believein/#/ideas
+
+http://unfold.no/
+
+http://pexetothemes.com/demos/story_wp/#2
+
+http://wordpress.twelve.itembridge.com/
+
+
+http://orcawp.ecko.me/
+
+
+http://nightlight.james.isbell.net/tag/single-column
+
+http://www.don-guri.com/donguri-magazine/23/
+
+http://www.tvlcorp.com
+
+http://www.stampready.net/dashboard/editor/index.php?demo=1013
+
+http://www.webduck.in/geekapp/layout1/static/color-1/index.html
+
+
+
