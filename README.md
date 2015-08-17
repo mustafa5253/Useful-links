@@ -132,6 +132,7 @@ http://graphicburger.com/icollection-ui-kit/
 =====================================================================
 mobile app presentation
 http://codyhouse.co/demo/3d-animated-mockup/index.html#0
+http://codyhouse.co/demo/app-introduction-template/index.html
 =====================================================================
 
 file upload js
