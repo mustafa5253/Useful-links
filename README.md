@@ -231,6 +231,9 @@ sticky js  for sticky menu
 http://stickyjs.com/
 
 ======================================================================
+style guide templete
+http://codyhouse.co/demo/style-guide-template/index.html
+======================================================================
 text wrap
 
 http://baconforme.com/
