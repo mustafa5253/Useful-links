@@ -644,3 +644,4 @@ $("#table").on("click", "td", function(event) {
     alert($(this).text());
 });
 </script>
+
