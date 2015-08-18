@@ -158,7 +158,7 @@ https://tinypng.com/
 ========================================================================
 
 mobile device information
-
+http://mydevice.io/devices/
 http://www.emirweb.com/ScreenDeviceStatistics.php
 
 
