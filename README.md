@@ -271,6 +271,11 @@ http://joelb.me/scrollpath/
 scrollbar plugin
 
 http://jamesflorentino.github.io/nanoScrollerJS/
+
+=======================================================================
+tutorials
+
+http://www.tutorialspoint.com/angularjs/index.htm
 =======================================================================
 
 cropping pluggin
