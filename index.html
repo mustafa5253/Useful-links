@@ -1,0 +1,868 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width:device-width,minimum-scale:2" />
+<title>Newman POC</title>
+
+<!--<link href="css/style.css" type="text/css" rel="stylesheet" />-->
+
+<link type="text/less" rel="stylesheet/less" href="css.less" media="screen">
+<script src="jquery.min.js"></script>
+<script src="jquery-migrate-1.2.1.min.js"></script>
+<script src="compiler.js"></script>
+
+</head>
+
+<body>
+<div class="container">
+<h1 class="page_heading">Newman Events Color Guide</h1>
+
+<div class="clear"></div>
+
+<div class="color_box group_color">
+	<span class="color_name"> Group Color </span>
+</div>
+
+<div class="color_box managers_color">
+	<span class="color_name"> Manager Color </span>
+</div>
+
+<div class="color_box supplier_color">
+	<span class="color_name"> Supplier Color </span>
+</div>
+
+<div class="color_box client_color">
+	<span class="color_name"> Client Color </span>
+</div>
+
+<div class="color_box resource_color">
+	<span class="color_name"> Resource Color </span>
+</div>
+
+<div class="color_box free_color">
+	<span class="color_name"> Free Color</span>
+</div>
+
+<div class="color_box solo_color">
+	<span class="color_name"> Solo Color</span>
+</div>
+
+<div class="color_box enterprise_color">
+	<span class="color_name"> Enterprise Color </span>
+</div>
+
+<div class="color_box delegates_color">
+	<span class="color_name"> Delegate Color </span>
+</div>
+
+<div class="color_box delegate75_color">
+	<span class="color_name"> Delegate 75 Color </span>
+</div>
+
+<div class="color_box verydark_color">
+	<span class="color_name"> Very Dark Color </span>
+</div>
+
+<div class="color_box verydark80_color">
+	<span class="color_name"> Very Dark 80 Color </span>
+</div>
+
+<div class="color_box verydark60_color">
+	<span class="color_name"> Vrey Dark 60 Color</span>
+</div>
+
+<div class="color_box dark_color">
+	<span class="color_name"> Dark Color</span>
+</div>
+
+<div class="color_box dark40_color">
+	<span class="color_name"> Dark 40 Color </span>
+</div>
+
+<div class="color_box dark30_color">
+	<span class="color_name"> Dark 30 Color </span>
+</div>
+
+<div class="color_box medium_color">
+	<span class="color_name"> Medium Color </span>
+</div>
+
+<div class="color_box light_color">
+	<span class="color_name"> Light Color </span>
+</div>
+
+<div class="color_box light55_color">
+	<span class="color_name"> Light 55 Color </span>
+</div>
+
+<div class="color_box light50_color">
+	<span class="color_name"> Light 50 Color</span>
+</div>
+
+<div class="color_box light20_color">
+	<span class="color_name"> Light 20 Color</span>
+</div>
+
+<div class="color_box verylight_color">
+	<span class="color_name"> Very Light Color </span>
+</div>
+
+<div class="color_box verylight50_color">
+	<span class="color_name"> Very Light 50 Color </span>
+</div>
+
+<div class="color_box danger_color">
+	<span class="color_name"> Danger Color </span>
+</div>
+
+<div class="color_box danger60_color">
+	<span class="color_name"> Danger 60 Color </span>
+</div>
+
+<div class="color_box graymedium_color">
+	<span class="color_name"> Gray Medium Color </span>
+</div>
+
+<div class="color_box graylight_color">
+	<span class="color_name"> Gray Light Color</span>
+</div>
+
+<div class="color_box grayverylight_color">
+	<span class="color_name"> Gray Very Light Color</span>
+</div>
+
+<div class="color_box grayverylight50_color">
+	<span class="color_name"> Gray Very Light 50 Color</span>
+</div>
+
+<!--end of colors--->
+
+<h1 class="page_heading">Newman Events Font Size's</h1>
+
+<span class="font-xxlarge text-demo">Loreum Ipsum Dummy text</span>
+<span class="font-xlarge text-demo">Loreum Ipsum Dummy text</span>
+<span class="font-large text-demo">Loreum Ipsum Dummy text</span>
+<span class="font-medium text-demo">Loreum Ipsum Dummy text</span>
+<span class="font-small text-demo">Loreum Ipsum Dummy text</span>
+<span class="font-xsmall text-demo">Loreum Ipsum Dummy text</span>
+
+<!--end of colors--->
+
+<h1 class="page_heading">Newman Events Standard Icon's</h1>
+<div id="newman_icons">
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-notify"></i> </span>
+<span class="small_icon"> <i class="icon-notify"></i> </span>
+<span class="medium_icon"> <i class="icon-notify"></i> </span>
+<span class="large_icon"> <i class="icon-notify"></i> </span>
+<span class="xlarge_icon"> <i class="icon-notify"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-notify"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-user"></i> </span>
+<span class="small_icon"> <i class="icon-user"></i> </span>
+<span class="medium_icon"> <i class="icon-user"></i> </span>
+<span class="large_icon"> <i class="icon-user"></i> </span>
+<span class="xlarge_icon"> <i class="icon-user"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-user"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-view"></i> </span>
+<span class="small_icon"> <i class="icon-view"></i> </span>
+<span class="medium_icon"> <i class="icon-view"></i> </span>
+<span class="large_icon"> <i class="icon-view"></i> </span>
+<span class="xlarge_icon"> <i class="icon-view"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-view"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-calender"></i> </span>
+<span class="small_icon"> <i class="icon-calender"></i> </span>
+<span class="medium_icon"> <i class="icon-calender"></i> </span>
+<span class="large_icon"> <i class="icon-calender"></i> </span>
+<span class="xlarge_icon"> <i class="icon-calender"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-calender"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-search"></i> </span>
+<span class="small_icon"> <i class="icon-search"></i> </span>
+<span class="medium_icon"> <i class="icon-search"></i> </span>
+<span class="large_icon"> <i class="icon-search"></i> </span>
+<span class="xlarge_icon"> <i class="icon-search"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-search"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-rightarrow"></i> </span>
+<span class="small_icon"> <i class="icon-rightarrow"></i> </span>
+<span class="medium_icon"> <i class="icon-rightarrow"></i> </span>
+<span class="large_icon"> <i class="icon-rightarrow"></i> </span>
+<span class="xlarge_icon"> <i class="icon-rightarrow"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-rightarrow"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-leftarrow"></i> </span>
+<span class="small_icon"> <i class="icon-leftarrow"></i> </span>
+<span class="medium_icon"> <i class="icon-leftarrow"></i> </span>
+<span class="large_icon"> <i class="icon-leftarrow"></i> </span>
+<span class="xlarge_icon"> <i class="icon-leftarrow"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-leftarrow"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-uparrow"></i> </span>
+<span class="small_icon"> <i class="icon-uparrow"></i> </span>
+<span class="medium_icon"> <i class="icon-uparrow"></i> </span>
+<span class="large_icon"> <i class="icon-uparrow"></i> </span>
+<span class="xlarge_icon"> <i class="icon-uparrow"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-uparrow"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-downarrow"></i> </span>
+<span class="small_icon"> <i class="icon-downarrow"></i> </span>
+<span class="medium_icon"> <i class="icon-downarrow"></i> </span>
+<span class="large_icon"> <i class="icon-downarrow"></i> </span>
+<span class="xlarge_icon"> <i class="icon-downarrow"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-downarrow"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-close"></i> </span>
+<span class="small_icon"> <i class="icon-close"></i> </span>
+<span class="medium_icon"> <i class="icon-close"></i> </span>
+<span class="large_icon"> <i class="icon-close"></i> </span>
+<span class="xlarge_icon"> <i class="icon-close"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-close"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-add"></i> </span>
+<span class="small_icon"> <i class="icon-add"></i> </span>
+<span class="medium_icon"> <i class="icon-add"></i> </span>
+<span class="large_icon"> <i class="icon-add"></i> </span>
+<span class="xlarge_icon"> <i class="icon-add"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-add"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-frwd"></i> </span>
+<span class="small_icon"> <i class="icon-frwd"></i> </span>
+<span class="medium_icon"> <i class="icon-frwd"></i> </span>
+<span class="large_icon"> <i class="icon-frwd"></i> </span>
+<span class="xlarge_icon"> <i class="icon-frwd"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-frwd"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-ffrwd"></i> </span>
+<span class="small_icon"> <i class="icon-ffrwd"></i> </span>
+<span class="medium_icon"> <i class="icon-ffrwd"></i> </span>
+<span class="large_icon"> <i class="icon-ffrwd"></i> </span>
+<span class="xlarge_icon"> <i class="icon-ffrwd"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-ffrwd"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-reports"></i> </span>
+<span class="small_icon"> <i class="icon-reports"></i> </span>
+<span class="medium_icon"> <i class="icon-reports"></i> </span>
+<span class="large_icon"> <i class="icon-reports"></i> </span>
+<span class="xlarge_icon"> <i class="icon-reports"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-reports"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+<span class="small_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+<span class="medium_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+<span class="large_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+<span class="xlarge_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+<span class="xxlarge_icon thumbwrap"> <i class="icon-thumb"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-right"></i> </span>
+<span class="small_icon"> <i class="icon-right"></i> </span>
+<span class="medium_icon"> <i class="icon-right"></i> </span>
+<span class="large_icon"> <i class="icon-right"></i> </span>
+<span class="xlarge_icon"> <i class="icon-right"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-right"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-copy"></i> </span>
+<span class="small_icon"> <i class="icon-copy"></i> </span>
+<span class="medium_icon"> <i class="icon-copy"></i> </span>
+<span class="large_icon"> <i class="icon-copy"></i> </span>
+<span class="xlarge_icon"> <i class="icon-copy"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-copy"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-power"></i> </span>
+<span class="small_icon"> <i class="icon-power"></i> </span>
+<span class="medium_icon"> <i class="icon-power"></i> </span>
+<span class="large_icon"> <i class="icon-power"></i> </span>
+<span class="xlarge_icon"> <i class="icon-power"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-power"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-upload"></i> </span>
+<span class="small_icon"> <i class="icon-upload"></i> </span>
+<span class="medium_icon"> <i class="icon-upload"></i> </span>
+<span class="large_icon"> <i class="icon-upload"></i> </span>
+<span class="xlarge_icon"> <i class="icon-upload"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-upload"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-dollar"></i> </span>
+<span class="small_icon"> <i class="icon-dollar"></i> </span>
+<span class="medium_icon"> <i class="icon-dollar"></i> </span>
+<span class="large_icon"> <i class="icon-dollar"></i> </span>
+<span class="xlarge_icon"> <i class="icon-dollar"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-dollar"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-help"></i> </span>
+<span class="small_icon"> <i class="icon-help"></i> </span>
+<span class="medium_icon"> <i class="icon-help"></i> </span>
+<span class="large_icon"> <i class="icon-help"></i> </span>
+<span class="xlarge_icon"> <i class="icon-help"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-help"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-edit"></i> </span>
+<span class="small_icon"> <i class="icon-edit"></i> </span>
+<span class="medium_icon"> <i class="icon-edit"></i> </span>
+<span class="large_icon"> <i class="icon-edit"></i> </span>
+<span class="xlarge_icon"> <i class="icon-edit"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-edit"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-launch"></i> </span>
+<span class="small_icon"> <i class="icon-launch"></i> </span>
+<span class="medium_icon"> <i class="icon-launch"></i> </span>
+<span class="large_icon"> <i class="icon-launch"></i> </span>
+<span class="xlarge_icon"> <i class="icon-launch"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-launch"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-closeb"></i> </span>
+<span class="small_icon"> <i class="icon-closeb"></i> </span>
+<span class="medium_icon"> <i class="icon-closeb"></i> </span>
+<span class="large_icon"> <i class="icon-closeb"></i> </span>
+<span class="xlarge_icon"> <i class="icon-closeb"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-closeb"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-fback"></i> </span>
+<span class="small_icon"> <i class="icon-fback"></i> </span>
+<span class="medium_icon"> <i class="icon-fback"></i> </span>
+<span class="large_icon"> <i class="icon-fback"></i> </span>
+<span class="xlarge_icon"> <i class="icon-fback"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-fback"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-back"></i> </span>
+<span class="small_icon"> <i class="icon-back"></i> </span>
+<span class="medium_icon"> <i class="icon-back"></i> </span>
+<span class="large_icon"> <i class="icon-back"></i> </span>
+<span class="xlarge_icon"> <i class="icon-back"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-back"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-alert"></i> </span>
+<span class="small_icon"> <i class="icon-alert"></i> </span>
+<span class="medium_icon"> <i class="icon-alert"></i> </span>
+<span class="large_icon"> <i class="icon-alert"></i> </span>
+<span class="xlarge_icon"> <i class="icon-alert"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-alert"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-admin"></i> </span>
+<span class="small_icon"> <i class="icon-admin"></i> </span>
+<span class="medium_icon"> <i class="icon-admin"></i> </span>
+<span class="large_icon"> <i class="icon-admin"></i> </span>
+<span class="xlarge_icon"> <i class="icon-admin"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-admin"></i> </span>
+
+<div class="clear"></div>
+
+<h1 class="page_heading">Newman Events Setup Icon's</h1>
+
+
+<span class="xsmall_icon"> <i class="icon-eventdetail"></i> </span>
+<span class="small_icon"> <i class="icon-eventdetail"></i> </span>
+<span class="medium_icon"> <i class="icon-eventdetail"></i> </span>
+<span class="large_icon"> <i class="icon-eventdetail"></i> </span>
+<span class="xlarge_icon"> <i class="icon-eventdetail"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-eventdetail"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-sideevent"></i> </span>
+<span class="small_icon"> <i class="icon-sideevent"></i> </span>
+<span class="medium_icon"> <i class="icon-sideevent"></i> </span>
+<span class="large_icon"> <i class="icon-sideevent"></i> </span>
+<span class="xlarge_icon"> <i class="icon-sideevent"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-sideevent"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-sponsors"></i> </span>
+<span class="small_icon"> <i class="icon-sponsors"></i> </span>
+<span class="medium_icon"> <i class="icon-sponsors"></i> </span>
+<span class="large_icon"> <i class="icon-sponsors"></i> </span>
+<span class="xlarge_icon"> <i class="icon-sponsors"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-sponsors"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-exhibitors"></i> </span>
+<span class="small_icon"> <i class="icon-exhibitors"></i> </span>
+<span class="medium_icon"> <i class="icon-exhibitors"></i> </span>
+<span class="large_icon"> <i class="icon-exhibitors"></i> </span>
+<span class="xlarge_icon"> <i class="icon-exhibitors"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-exhibitors"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-program"></i> </span>
+<span class="small_icon"> <i class="icon-program"></i> </span>
+<span class="medium_icon"> <i class="icon-program"></i> </span>
+<span class="large_icon"> <i class="icon-program"></i> </span>
+<span class="xlarge_icon"> <i class="icon-program"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-program"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-payment"></i> </span>
+<span class="small_icon"> <i class="icon-payment"></i> </span>
+<span class="medium_icon"> <i class="icon-payment"></i> </span>
+<span class="large_icon"> <i class="icon-payment"></i> </span>
+<span class="xlarge_icon"> <i class="icon-payment"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-payment"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-customize"></i> </span>
+<span class="small_icon"> <i class="icon-customize"></i> </span>
+<span class="medium_icon"> <i class="icon-customize"></i> </span>
+<span class="large_icon"> <i class="icon-customize"></i> </span>
+<span class="xlarge_icon"> <i class="icon-customize"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-customize"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon "> <i class="icon-thumb"></i> </span>
+<span class="small_icon "> <i class="icon-thumb"></i> </span>
+<span class="medium_icon "> <i class="icon-thumb"></i> </span>
+<span class="large_icon "> <i class="icon-thumb"></i> </span>
+<span class="xlarge_icon "> <i class="icon-thumb"></i> </span>
+<span class="xxlarge_icon "> <i class="icon-thumb"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-user"></i> </span>
+<span class="small_icon"> <i class="icon-user"></i> </span>
+<span class="medium_icon"> <i class="icon-user"></i> </span>
+<span class="large_icon"> <i class="icon-user"></i> </span>
+<span class="xlarge_icon"> <i class="icon-user"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-user"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-quick_list"></i> </span>
+<span class="small_icon"> <i class="icon-quick_list"></i> </span>
+<span class="medium_icon"> <i class="icon-quick_list"></i> </span>
+<span class="large_icon"> <i class="icon-quick_list"></i> </span>
+<span class="xlarge_icon"> <i class="icon-quick_list"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-quick_list"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-home"></i> </span>
+<span class="small_icon"> <i class="icon-home"></i> </span>
+<span class="medium_icon"> <i class="icon-home"></i> </span>
+<span class="large_icon"> <i class="icon-home"></i> </span>
+<span class="xlarge_icon"> <i class="icon-home"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-home"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-delete"></i> </span>
+<span class="small_icon"> <i class="icon-delete"></i> </span>
+<span class="medium_icon"> <i class="icon-delete"></i> </span>
+<span class="large_icon"> <i class="icon-delete"></i> </span>
+<span class="xlarge_icon"> <i class="icon-delete"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-delete"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-resources"></i> </span>
+<span class="small_icon"> <i class="icon-resources"></i> </span>
+<span class="medium_icon"> <i class="icon-resources"></i> </span>
+<span class="large_icon"> <i class="icon-resources"></i> </span>
+<span class="xlarge_icon"> <i class="icon-resources"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-resources"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-info"></i> </span>
+<span class="small_icon"> <i class="icon-info"></i> </span>
+<span class="medium_icon"> <i class="icon-info"></i> </span>
+<span class="large_icon"> <i class="icon-info"></i> </span>
+<span class="xlarge_icon"> <i class="icon-info"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-info"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="small_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="medium_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="large_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="xlarge_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-radio-unchecked"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-radio-checked"></i> </span>
+<span class="small_icon"> <i class="icon-radio-checked"></i> </span>
+<span class="medium_icon"> <i class="icon-radio-unchecked"></i> </span>
+<span class="large_icon"> <i class="icon-radio-checked"></i> </span>
+<span class="xlarge_icon"> <i class="icon-radio-checked"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-radio-checked"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-star"></i> </span>
+<span class="small_icon"> <i class="icon-star"></i> </span>
+<span class="medium_icon"> <i class="icon-star"></i> </span>
+<span class="large_icon"> <i class="icon-star"></i> </span>
+<span class="xlarge_icon"> <i class="icon-star"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-star"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+<span class="small_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+<span class="medium_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+<span class="large_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+<span class="xlarge_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-checkbox-unchecked"></i> </span>
+
+<div class="clear"></div>
+
+<span class="xsmall_icon"> <i class="icon-checkbox-checked"></i> </span>
+<span class="small_icon"> <i class="icon-checkbox-checked"></i> </span>
+<span class="medium_icon"> <i class="icon-checkbox-checked"></i> </span>
+<span class="large_icon"> <i class="icon-checkbox-checked"></i> </span>
+<span class="xlarge_icon"> <i class="icon-checkbox-checked"></i> </span>
+<span class="xxlarge_icon"> <i class="icon-checkbox-checked"></i> </span>
+
+<div class="clear"></div>
+</div>
+<h1 class="page_heading">Newman Events Dashboard Icons</h1>
+
+<a href="javascript:void(0);" class="dashboard_link">
+	<span class="xxlarge_icon"> <i class="icon-home"></i> </span>
+    <span class="db_linktitle">My Events</span>
+</a>
+<a href="javascript:void(0);" class="dashboard_link">
+	<span class="xxlarge_icon"> <i class="icon-quick_list"></i> </span>
+    <span class="db_linktitle">Quick List</span>
+</a>
+<a href="javascript:void(0);" class="dashboard_link">
+	<span class="xxlarge_icon"> <i class="icon-resources"></i> </span>
+    <span class="db_linktitle">Event Resources</span>
+</a>
+<a href="javascript:void(0);" class="dashboard_link disabled">
+	<span class="xxlarge_icon"> <i class="icon-reports"></i> </span>
+    <span class="db_linktitle">Reports</span>
+</a>
+<a href="javascript:void(0);" class="dashboard_link active">
+	<span class="xxlarge_icon"> <i class="icon-admin"></i> </span>
+    <span class="db_linktitle">Admin</span>
+</a>
+<div class="clearFix display_inline w_100"></div>
+<input placeholder="small" type="text" class="xlarge_input">
+<div class="clearFix display_inline w_100 mT10"></div>
+<input placeholder="medium" type="text" class="large_input">
+<div class="clearFix display_inline w_100 mT10"></div>
+<input placeholder="large" type="text" class="medium_input">
+<div class="clearFix display_inline w_100 mT10"></div>
+<input placeholder="xlarge" type="text" class="small_input">
+<div class="clearFix display_inline w_100 mT10"></div>
+<textarea placeholder="Textarea" type="text" class="form-textarea"></textarea>
+<div class="clearFix display_inline w_100 mT10"></div>
+<label class="form-label">Form lable</label>
+<div class="clearFix display_inline w_100 mT10"></div>
+<input type="checkbox" id="checkboxEample" name="checkboxEample" class="checkBox">
+<label class="form-label" for="checkboxEample"><span>Form lable</span></label>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="radioDiv">
+    <input type="radio" id="radioButtonExample" name="radioButton" class="radioButton">
+    <label class="form-label pull-left" for="radioButtonExample"><span>Yes</span></label>
+</div>
+<div class="radioDiv">
+    <input type="radio" id="radioButtonExample2" name="radioButton" class="radioButton">
+    <label class="form-label pull-left" for="radioButtonExample2"><span>No</span></label>
+</div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="col-5">
+	<input type="file" class="xlarge_input" placeholder="">
+</div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<span class="rating">
+   <input type="radio" title="" class="custom-rating" id="rating-input-1-5" value="5"  name="rating">                      
+   <input type="radio" title="" class="custom-rating" id="rating-input-1-4" value="4"  name="rating">                         
+   <input type="radio" title="" class="custom-rating" id="rating-input-1-3" value="3"  name="rating">
+   <input type="radio" title="" class="custom-rating" id="rating-input-1-2" value="2"  name="rating">
+   <input type="radio" title="" class="custom-rating" id="rating-input-1-1" value="1"  name="rating">                          
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="info_btn"><span class="field_info xsmall">The Access ID# is a unique identifier assigned to every registrant using this site. Use it to access, edit, cancel, pay and rebook items in your registration.</span></span>
+<div class="clearFix display_inline w_100 mT10"></div>
+<select class="custom-select small_select">
+  <option disabled="disabled" selected="selected">Small</option>
+  <option>one</option>
+  <option>two</option>
+  <option>something</option>
+  <option>70</option>
+  <option>5</option>
+</select>
+<div class="clearFix display_inline w_100 mT10"></div>
+<select class="custom-select medium_select">
+  <option disabled="disabled" selected="selected">Medium</option>
+  <option>one</option>
+  <option>two</option>
+  <option>something</option>
+  <option>4</option>
+  <option>5</option>
+</select>
+<div class="clearFix display_inline w_100 mT10"></div>
+<select class="custom-select large_select">
+  <option disabled="disabled" selected="selected">Large</option>
+  <option>one</option>
+  <option>two</option>
+  <option>something</option>
+  <option>4</option>
+  <option>5</option>
+</select>
+<div class="clearFix display_inline w_100 mT10"></div>
+<select class="custom-select xlarge_select">
+  <option disabled="disabled" selected="selected">Xlarge</option>
+  <option>one</option>
+  <option>two</option>
+  <option>something</option>
+  <option>4</option>
+  <option>5</option>
+</select>
+<div class="clearFix display_inline w_100 mT10"></div>
+<input class="xlarge_input" type="number">  
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+    <div class="col-9">
+    	<div class="panel">
+        	<div class="panel_header">
+            	Heading
+            </div>
+            <div class="panel_contentWrapper">
+            	<div class="panel_content">
+                    <select class="custom-select xlarge_select">
+                      <option disabled="disabled" selected="selected">Xlarge</option>
+                      <option>one</option>
+                      <option>two</option>
+                      <option>something</option>
+                      <option>4</option>
+                      <option>5</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="panel">
+        	<div class="panel_header">
+            	Heading
+            </div>
+            <div class="panel_contentWrapper">
+            	<div class="panel_content">
+                    <select class="custom-select xlarge_select">
+                      <option disabled="disabled" selected="selected">Xlarge</option>
+                      <option>one</option>
+                      <option>two</option>
+                      <option>something</option>
+                      <option>4</option>
+                      <option>5</option>
+                    </select>
+                </div>
+                <div class="panel_footer">
+                	<div class="pull-right">
+                    	<button class="btn-normal btn">Clear</button>  
+                    	<button class="btn-normal btn">Save</button>          
+                    </div>         
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>    
+<button class="btn-normal btn"  data-toggle="modal" data-target=".signup_popup">Modal Popup Example</button>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div> 
+<h1 class="page_heading">Popup - Warning</h1>
+<button class="btn-normal btn"  data-toggle="modal" data-target=".danger_popup">Modal Popup Example</button>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div> 
+<h1 class="page_heading">Popup - Venue Finder</h1>
+<button class="btn-normal btn"  data-toggle="modal" data-target=".venue_popup">Modal Popup Example</button>
+<div class="clearFix display_inline w_100 mT10"></div>  
+<h1 class="page_heading">Buttons</h1>  
+<button class="btn-normal btn">Text Button</button>
+<div class="clearFix display_inline w_100 mT10"></div>    
+<button class="btn-icon btn">
+    <span class="medium_icon"><i class="icon-add"></i></span>Icon Button
+</button>
+<div class="clearFix display_inline w_100 mT10"></div>    
+<button class="btn-icon btn">
+    <span class="small_icon"><i class="icon-add"></i></span>Icon Button
+</button>
+<div class="clearFix display_inline w_100 mT10"></div>  
+<div class="btn-group">
+	<button class="btn-nav btn prevI">
+		<i class="icon-leftarrow"></i>Back
+    </button>
+    <button class="btn-nav prev btn">
+       Preview Page<span class="xsmall_icon"> <i class="icon-view font-small"></i></span></span>
+    </button>
+    <button class="btn-nav prevI btn">
+        Next<i class="icon-rightarrow"></i></span>
+    </button>
+</div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="uploadedName">
+    <span>nonamre.jpg</span>
+    <span class="xsmall_icon"><img src="images/crox.png"></span>
+</div>
+<div class="uploadedName">
+    <span>nonamre.jpg</span>
+    <span class="xsmall_icon"><img src="images/crox.png"></span>
+</div>
+<div class="uploadedName">
+    <span>nonamre.jpg</span>
+    <span class="xsmall_icon"><img src="images/crox.png"></span>
+</div> 
+<div class="clearFix display_inline w_100 mT10"></div>
+<div class="clearFix display_inline w_100 mT10"></div>
+    <div class="modal fade signup_popup">
+      <div class="modal-dialog modal-sm-as">
+        <div class="modal-content">
+          <div class="modal-header">        
+            <h4 class="modal-title">Modal Example</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body-content">
+                <select class="custom-select xlarge_select">
+                  <option disabled="disabled" selected="selected">Xlarge</option>
+                  <option>one</option>
+                  <option>two</option>
+                  <option>something</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select> 
+            </div>
+            <div class="modal-footer">
+                <div class="pull-right">
+                    <button class="btn-normal btn"  data-dismiss="modal" class="close">Close</button>  
+                    <button class="btn-normal btn">Save</button>          
+                </div>         	
+            </div>     
+          </div>               
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade venue_popup">
+      <div class="modal-dialog modal-sm-as">
+        <div class="modal-content">
+          <div class="modal-header venueFinder">        
+            <h4 class="modal-title">Modal Example</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body-content">
+                <select class="custom-select xlarge_select">
+                  <option disabled="disabled" selected="selected">Xlarge</option>
+                  <option>one</option>
+                  <option>two</option>
+                  <option>something</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select> 
+            </div>
+            <div class="modal-footer">
+                <div class="pull-right">
+                    <button class="btn-normal btn"  data-dismiss="modal" class="close">Close</button>  
+                    <button class="btn-normal btn">Save</button>          
+                </div>         	
+            </div>     
+          </div>               
+        </div>
+      </div>
+    </div>
+    
+    <div class="modal fade danger_popup">
+      <div class="modal-dialog modal-sm-as">
+        <div class="modal-content">
+          <div class="modal-header danger">        
+            <h4 class="modal-title">Modal Example</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body-content">
+                <select class="custom-select xlarge_select">
+                  <option disabled="disabled" selected="selected">Xlarge</option>
+                  <option>one</option>
+                  <option>two</option>
+                  <option>something</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select> 
+            </div>
+            <div class="modal-footer">
+                <div class="pull-right">
+                    <button class="btn-normal btn"  data-dismiss="modal" class="close">Close</button>  
+                    <button class="btn-normal btn">Save</button>          
+                </div>         	
+            </div>     
+          </div>               
+        </div>
+      </div>
+    </div>
+</div>
+<script src="js/new.js"></script>
+<script type="text/javascript">
+$(function(){
+$('.custom-select').customSelect();
+});
+</script>
+</body>
+</html>
