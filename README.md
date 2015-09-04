@@ -278,6 +278,10 @@ tutorials
 http://www.tutorialspoint.com/angularjs/index.htm
 =======================================================================
 
+lightbox
+https://github.com/sachinchoolur/lightGallery
+==========================================================================
+
 cropping pluggin
 http://www.croppic.net/
 
