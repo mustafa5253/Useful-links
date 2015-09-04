@@ -235,7 +235,7 @@ http://toki-woki.net/lab/long-press/
 sticky js  for sticky menu
 
 http://stickyjs.com/
-
+http://codepen.io/Guilh/pen/JLKbn
 ======================================================================
 style guide templete
 http://codyhouse.co/demo/style-guide-template/index.html
