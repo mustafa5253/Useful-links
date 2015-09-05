@@ -5,7 +5,6 @@ http://inspirationhut.net/design-resources/14-free-app-and-web-design-gui-kits/
 
 design links
 ------------
-https://www.pinterest.com/rolangonzalez/web-design/
 
 ===================================================================
 view port detail of mobile devices
@@ -109,7 +108,9 @@ http://abduzeedo.com
 http://redesigncase.com
 http://graphicsbay.com
 http://www.cssauthor.com/mobile-app-ui-psd/
-http://thenextweb.com/dd/2012/09/09/check-25-sources-great-mobile-design-inspiration/      // Collections of web sites
+http://thenextweb.com/dd/2012/09/09/check-25-sources-great-mobile-design-inspiration/      
+
+// Collections of web sites
 http://inspired-ui.com/
 http://pttrns.com/ 
 http://theultralinx.com/category/recent/art-design/graphic-design/ui-screenshots
@@ -123,6 +124,10 @@ http://ui.theultralinx.com/
 http://www.mobile-patterns.com/
 http://www.awwwards.com/inspirational-and-useful-resources-for-app-designers.html
 https://www.pinterest.com/pin/502784745873206473/
+https://www.pinterest.com/rolangonzalez/web-design/
+https://www.behance.net/gallery/24969703/Aware-UI-Kit
+https://www.behance.net/gallery/23661679/textra-website
+https://www.pinterest.com/search/pins/?q=ios%20app&term_meta[]=ios|typed&term_meta[]=app|typed
 
 Ui-kit
 
