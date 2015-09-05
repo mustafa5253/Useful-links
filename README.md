@@ -5,6 +5,7 @@ http://inspirationhut.net/design-resources/14-free-app-and-web-design-gui-kits/
 
 design links
 ------------
+https://www.pinterest.com/rolangonzalez/web-design/
 
 ===================================================================
 view port detail of mobile devices
@@ -55,29 +56,23 @@ http://css-tricks.com/examples/SeamlessResponsivePhotoGrid/
 drop down menu
 
 http://tympanus.net/Development/SimpleDropDownEffects/index2.html
-
 http://bqworks.com/grid-accordion/
 ====================================================================
 
 crasoul related
 
-
 http://designscrazed.org/free-responsive-jquery-carousel-slider-plugins/
-
 http://bqworks.com/grid-accordion/#example3/0
+
 ====================================================================
 mobile menu
 
 http://tympanus.net/Development/ButtonComponentMorph/index7.html
 http://gucheen.github.io/jQueryPopMenu/#
-
-
 =====================================================================
 
 tab menu
-
 http://tympanus.net/Blueprints/FullWidthTabs/
-
 =====================================================================
 
 transition and transform
