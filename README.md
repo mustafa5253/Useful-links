@@ -127,6 +127,7 @@ http://www.pinterest.com/shahbaig/iphone-app-design-inspiration/
 http://ui.theultralinx.com/
 http://www.mobile-patterns.com/
 http://www.awwwards.com/inspirational-and-useful-resources-for-app-designers.html
+https://www.pinterest.com/pin/502784745873206473/
 
 Ui-kit
 
