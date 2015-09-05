@@ -109,6 +109,15 @@ http://redesigncase.com
 http://graphicsbay.com
 http://www.cssauthor.com/mobile-app-ui-psd/
 http://thenextweb.com/dd/2012/09/09/check-25-sources-great-mobile-design-inspiration/      
+https://s-media-cache-ak0.pinimg.com/736x/42/55/3a/42553a534839ecaa94217ac76b7a311d.jpg
+http://www.mobile-patterns.com/
+http://www.awwwards.com/inspirational-and-useful-resources-for-app-designers.html
+https://www.pinterest.com/pin/502784745873206473/
+https://www.pinterest.com/rolangonzalez/web-design/
+https://www.behance.net/gallery/24969703/Aware-UI-Kit
+https://www.behance.net/gallery/23661679/textra-website
+https://www.pinterest.com/search/pins/?q=ios%20app&term_meta[]=ios|typed&term_meta[]=app|typed
+https://www.pinterest.com/pin/89086898856203147/
 
 // Collections of web sites
 http://inspired-ui.com/
@@ -121,13 +130,7 @@ http://www.mobiletuxedo.com/category/ui-patterns/
 http://pinterest.com/Dedecube/design-inspiration-ipad/
 http://www.pinterest.com/shahbaig/iphone-app-design-inspiration/
 http://ui.theultralinx.com/
-http://www.mobile-patterns.com/
-http://www.awwwards.com/inspirational-and-useful-resources-for-app-designers.html
-https://www.pinterest.com/pin/502784745873206473/
-https://www.pinterest.com/rolangonzalez/web-design/
-https://www.behance.net/gallery/24969703/Aware-UI-Kit
-https://www.behance.net/gallery/23661679/textra-website
-https://www.pinterest.com/search/pins/?q=ios%20app&term_meta[]=ios|typed&term_meta[]=app|typed
+
 
 Ui-kit
 
