@@ -1,6 +1,6 @@
 http://inspirationhut.net/design-resources/14-free-app-and-web-design-gui-kits/
 http://inkydeals.s3.amazonaws.com/Free-Web-Bundle-new.zip
-
+https://www.inkydeals.com/deal/free-web-design-bundle-new/?utm_source=www.hongkiat.com&utm_medium=display&utm_content=web-free-bundle-new&utm_campaign=free-design-resources
 
 
 design links
