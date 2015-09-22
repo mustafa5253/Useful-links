@@ -114,6 +114,7 @@ http://codyhouse.co/demo/mega-dropdown/index.html#0
 
 GUI link for mobile
 
+https://www.behance.net/gallery/22937587/WINTER-UI-KIT-50-Elements-FREE-PSD-DOWNLOAD
 https://ui8.net/product/backpack-app-template
 https://ui8.net/product/social-points-app-template
 https://ui8.net/product/flavourite
@@ -139,8 +140,20 @@ https://www.behance.net/gallery/23661679/textra-website
 https://www.pinterest.com/search/pins/?q=ios%20app&term_meta[]=ios|typed&term_meta[]=app|typed
 https://www.pinterest.com/pin/89086898856203147/
 https://ui8.net/product/material-ui-kit
+http://www.cssauthor.com/mobile-app-ui-psd/
+http://redesigncase.com/real-estate-material-ui-kit-with-lollipop-style/
+http://redesigncase.com/music-app-mobile-ui-for-iphone-6/
+http://redesigncase.com/christmas-game-app-psd-for-mobile-ui/
+http://redesigncase.com/5-awesome-social-login-screen-for-mobile-ui/
+http://redesigncase.com/photo-editor-social-sharing-mobile-ui/
+http://redesigncase.com/thanks/?data-source=awesome-flat-mobile-ui-with-42-screens
+http://redesigncase.com/clean-12-ipad-login-screens/
+http://redesigncase.com/4-e-commerce-ui-screen-with-5-different-color-style/
+
 
 // Collections of web sites
+http://pixelkit.com/previews/flat-ui-kit
+http://pixelkit.com/previews/flat-ui-kit
 https://ui8.net/product/monobrand-ui-kit
 https://ui8.net/product/luckystore-ui-kit
 https://ui8.net/product/retro-jam-ui-kit
