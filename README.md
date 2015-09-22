@@ -9,6 +9,7 @@ mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiRnFXeHNrZy1y
 
 mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiampTdGdydEdpb3hGRm1BWlVCX0VrcndIOGJBIiwidiI6MSwicCI6IntcInVcIjozMDE5MTAyOCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VpOC5zMy5hbWF6b25hd3MuY29tXFxcL3Byb2R1Y3RzXFxcL0ZSRUUtMDgxX2lPUy1hcHAtYmFyc18xNDE3NDIxODYxNDAxLnppcFwiLFwiaWRcIjpcImE3N2M4MzdjMDA5MzQ2Mjc5M2JiMGQ5Y2Q3MDQ1ZDE4XCIsXCJ1cmxfaWRzXCI6W1wiNGU3MTE4M2NlNzUyNzUyZmM2MTNjZTQyMmFkNjQ2ZTUzMzIzMTgyZFwiXX0ifQ
 
+https://github.com/designmodo/Flat-UI/archive/master.zip
 
 design links
 ------------
