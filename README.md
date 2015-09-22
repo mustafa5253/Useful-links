@@ -3,6 +3,8 @@ http://inkydeals.s3.amazonaws.com/Free-Web-Bundle-new.zip
 https://www.inkydeals.com/deal/free-web-design-bundle-new/?utm_source=www.hongkiat.com&utm_medium=display&utm_content=web-free-bundle-new&utm_campaign=free-design-resources
 http://www.techandall.com/files/get.php?_=15180552425226beb5cd076
 http://pixelbuddha.net/sites/default/files/freebie/freebie-archive-1427792204.zip
+http://pixelbuddha.net/freebie/free-mobile-ui-kit-elegance-ios
+http://www.downloadpsd.com/downloads/eCommerce-Mobile-Application-UI-PSD.zip
 
 mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiRWhIOHF0Wm9QbHdjWkhMeTdYRTZkRnJaYVprIiwidiI6MSwicCI6IntcInVcIjozMDE5MTAyOCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VpOC5zMy5hbWF6b25hd3MuY29tXFxcL3Byb2R1Y3RzXFxcL2Rhc2hib2FyZHVpZnJlZWJpZV8xNDQyMDAzODUzODg2LnppcFwiLFwiaWRcIjpcImM4MWFmOGEzNjY5ZTQ1YWFiMGY3NGVmYjEyNDcwZWVjXCIsXCJ1cmxfaWRzXCI6W1wiOGE2MDM3MzZlMTdjYWVjNGE3ZjFlYjEwZDc0NzA2MWU3Nzg4NWFjM1wiXX0ifQ
 
@@ -164,6 +166,7 @@ http://www.invisionapp.com/now
 http://ui.logik.io/
 
 // Collections of web sites
+https://www.behance.net/gallery/29220231/EDStore-Fashion-Store-%28Free-PSD%29
 http://pixelkit.com/previews/flat-ui-kit
 http://pixelkit.com/previews/flat-ui-kit
 https://ui8.net/product/monobrand-ui-kit
@@ -572,6 +575,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [octicons](https://octicons.github.com/) - Github icons
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
+- http://download657.mediafire.com/plchyrkp252g/1sljdr7lr8clxas/200+App+%26+Web+Minimal+Outline+Icons+-+cssauthor.com.zip
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
