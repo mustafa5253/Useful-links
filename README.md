@@ -137,6 +137,7 @@ https://www.pinterest.com/pin/89086898856203147/
 https://ui8.net/product/material-ui-kit
 
 // Collections of web sites
+https://ui8.net/product/luckystore-ui-kit
 http://inspired-ui.com/
 http://pttrns.com/ 
 http://theultralinx.com/category/recent/art-design/graphic-design/ui-screenshots
