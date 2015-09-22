@@ -433,6 +433,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+- http://www.tempees.com/sites/default/files/download/css-selectbox.zip
 
 ### Loaders 
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
