@@ -2,6 +2,7 @@ http://inspirationhut.net/design-resources/14-free-app-and-web-design-gui-kits/
 http://inkydeals.s3.amazonaws.com/Free-Web-Bundle-new.zip
 https://www.inkydeals.com/deal/free-web-design-bundle-new/?utm_source=www.hongkiat.com&utm_medium=display&utm_content=web-free-bundle-new&utm_campaign=free-design-resources
 http://www.techandall.com/files/get.php?_=15180552425226beb5cd076
+http://pixelbuddha.net/sites/default/files/freebie/freebie-archive-1427792204.zip
 
 mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiRWhIOHF0Wm9QbHdjWkhMeTdYRTZkRnJaYVprIiwidiI6MSwicCI6IntcInVcIjozMDE5MTAyOCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VpOC5zMy5hbWF6b25hd3MuY29tXFxcL3Byb2R1Y3RzXFxcL2Rhc2hib2FyZHVpZnJlZWJpZV8xNDQyMDAzODUzODg2LnppcFwiLFwiaWRcIjpcImM4MWFmOGEzNjY5ZTQ1YWFiMGY3NGVmYjEyNDcwZWVjXCIsXCJ1cmxfaWRzXCI6W1wiOGE2MDM3MzZlMTdjYWVjNGE3ZjFlYjEwZDc0NzA2MWU3Nzg4NWFjM1wiXX0ifQ
 
@@ -149,7 +150,18 @@ http://redesigncase.com/photo-editor-social-sharing-mobile-ui/
 http://redesigncase.com/thanks/?data-source=awesome-flat-mobile-ui-with-42-screens
 http://redesigncase.com/clean-12-ipad-login-screens/
 http://redesigncase.com/4-e-commerce-ui-screen-with-5-different-color-style/
+https://www.behance.net/gallery/28749649/FrostApp
+http://redesigncase.com/real-estate-app-concept/
+http://redesigncase.com/lyrics-music-player-ui/
+https://www.behance.net/gallery/26486411/Cafegrapp-IOS8-App-Design-Download-Free-PSD
+https://dribbble.com/shots/2051093-eCommerce-Concept-12-App-Screen
+http://uisurf.com/downloads/icollection-app-ui-kit/
+http://pixelbuddha.net/freebie/free-ui-kit-mobile-ios-ghost-ship
 
+
+awesome desing for mobile app
+http://www.invisionapp.com/now
+http://ui.logik.io/
 
 // Collections of web sites
 http://pixelkit.com/previews/flat-ui-kit
