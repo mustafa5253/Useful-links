@@ -11,6 +11,8 @@ mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoidThjTTZZa0FU
 
 mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiampTdGdydEdpb3hGRm1BWlVCX0VrcndIOGJBIiwidiI6MSwicCI6IntcInVcIjozMDE5MTAyOCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VpOC5zMy5hbWF6b25hd3MuY29tXFxcL3Byb2R1Y3RzXFxcL0ZSRUUtMDgxX2lPUy1hcHAtYmFyc18xNDE3NDIxODYxNDAxLnppcFwiLFwiaWRcIjpcImE3N2M4MzdjMDA5MzQ2Mjc5M2JiMGQ5Y2Q3MDQ1ZDE4XCIsXCJ1cmxfaWRzXCI6W1wiNGU3MTE4M2NlNzUyNzUyZmM2MTNjZTQyMmFkNjQ2ZTUzMzIzMTgyZFwiXX0ifQ
 
+mandrillapp.com/track/click/30191028/ui8.s3.amazonaws.com?p=eyJzIjoiWEl2OVlSeG44ZXU4ZU80dnZNT0NEUDB4NlJzIiwidiI6MSwicCI6IntcInVcIjozMDE5MTAyOCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VpOC5zMy5hbWF6b25hd3MuY29tXFxcL3Byb2R1Y3RzXFxcL3NhbXBsZXNcXFwvMTIxX2lvczdfdWlraXRfZnJlZV8xNDE2NTEyMzE0Mzk3LnppcFwiLFwiaWRcIjpcIjJiNDg5ZGFlNzA3ZDRkMzk5MDE4NGQwMmRlZjEwNGFmXCIsXCJ1cmxfaWRzXCI6W1wiYmVlY2QyZTExMGNlNzEwODE5ZTVkMTIzYmYyY2JjODY5ZDI1NjQzZVwiXX0ifQ
+
 https://github.com/designmodo/Flat-UI/archive/master.zip
 
 design links
@@ -112,6 +114,8 @@ http://codyhouse.co/demo/mega-dropdown/index.html#0
 
 GUI link for mobile
 
+https://ui8.net/product/night-and-travel
+https://ui8.net/product/ghost-ship-ui-kit
 http://android.inspired-ui.com/
 http://www.iospirations.com
 http://www.android-app-patterns.com
@@ -129,6 +133,7 @@ https://www.behance.net/gallery/24969703/Aware-UI-Kit
 https://www.behance.net/gallery/23661679/textra-website
 https://www.pinterest.com/search/pins/?q=ios%20app&term_meta[]=ios|typed&term_meta[]=app|typed
 https://www.pinterest.com/pin/89086898856203147/
+https://ui8.net/product/material-ui-kit
 
 // Collections of web sites
 http://inspired-ui.com/
