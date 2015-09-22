@@ -114,6 +114,7 @@ http://codyhouse.co/demo/mega-dropdown/index.html#0
 
 GUI link for mobile
 
+https://ui8.net/product/luckystore-ui-kit
 https://ui8.net/product/night-and-travel
 https://ui8.net/product/ghost-ship-ui-kit
 http://android.inspired-ui.com/
