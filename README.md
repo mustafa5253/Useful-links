@@ -121,6 +121,9 @@ GUI link for mobile
 
 https://www.behance.net/gallery/28795599/10-New-iOS-8-Login-Screen-UI-Designs
 https://www.behance.net/gallery/22937587/WINTER-UI-KIT-50-Elements-FREE-PSD-DOWNLOAD
+https://www.behance.net/gallery/29450885/EDDA-UI-Kit
+
+https://in.pinterest.com/pin/339529259384360977/
 https://ui8.net/product/backpack-app-template
 https://ui8.net/product/social-points-app-template
 https://ui8.net/product/flavourite
@@ -164,13 +167,18 @@ http://uisurf.com/downloads/icollection-app-ui-kit/
 http://pixelbuddha.net/freebie/free-ui-kit-mobile-ios-ghost-ship
 http://downloadpsd.com/category/gui/page/2
 http://downloadpsd.com/gui/pink-ios-app-interface-design-psd
-
+https://in.pinterest.com/pin/236579786652979958/
 
 awesome desing for mobile app
 http://www.invisionapp.com/now
 http://ui.logik.io/
 
+header and navigation for mobile app
+https://in.pinterest.com/pin/317433473707937861/
+https://in.pinterest.com/pin/17732992256808982/
+
 // Collections of web sites
+https://in.pinterest.com/pin/476044623088522324/
 https://www.behance.net/gallery/29220231/EDStore-Fashion-Store-%28Free-PSD%29
 http://pixelkit.com/previews/flat-ui-kit
 http://pixelkit.com/previews/flat-ui-kit
