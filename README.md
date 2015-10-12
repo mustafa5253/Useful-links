@@ -123,6 +123,8 @@ https://www.behance.net/gallery/28795599/10-New-iOS-8-Login-Screen-UI-Designs
 https://www.behance.net/gallery/22937587/WINTER-UI-KIT-50-Elements-FREE-PSD-DOWNLOAD
 https://www.behance.net/gallery/29450885/EDDA-UI-Kit
 
+https://www.behance.net/gallery/24467815/RATER
+https://in.pinterest.com/pin/573012752567033105/
 https://in.pinterest.com/pin/339529259384360977/
 https://ui8.net/product/backpack-app-template
 https://ui8.net/product/social-points-app-template
@@ -273,6 +275,7 @@ http://anthonyterrien.com/knob/
 =========================================================================
 bootstrap plugins
 
+http://getuikit.com/docs/upload.html
 http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/
 =========================================================================
 typerhead (search plugin for input)
