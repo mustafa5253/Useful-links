@@ -179,6 +179,11 @@ header and navigation for mobile app
 https://in.pinterest.com/pin/317433473707937861/
 https://in.pinterest.com/pin/17732992256808982/
 
+
+//apple watch gui
+http://www.sketchappsources.com/free-source/1578-apple-watch-ui-kit-sketch-freebie-resource.html
+
+
 // Collections of web sites
 https://in.pinterest.com/pin/476044623088522324/
 https://www.behance.net/gallery/29220231/EDStore-Fashion-Store-%28Free-PSD%29
