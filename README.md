@@ -270,6 +270,7 @@ https://github.com/hakimel/avgrund/
 ======================================================================
 range slider
 
+http://www.jqueryscript.net/demo/Simple-Stylish-Range-Slider-Plugin-with-jQuery/
 http://www.jqueryscript.net/demo/Flat-Style-Slider-Control-Plugin-For-jQuery-Flat-Slider/
 ======================================================================
 mobile drawer menu
