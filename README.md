@@ -100,12 +100,14 @@ http://tympanus.net/Blueprints/FullWidthTabs/
 transition and transform
 
 http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-and-animations/
-
+=====================================================================
 for javascript plugins
+
 http://www.netzgesta.de
 http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/
 http://tutorialzine.com/2015/04/our-favorite-jquery-plugins-and-libraries-for-spring-2015/
 http://www.sitepoint.com/javascript/
+http://www.jqueryscript.net/
 =====================================================================
 
 mega menu
