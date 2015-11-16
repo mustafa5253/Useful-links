@@ -65,6 +65,10 @@ http://www.jqueryscript.net/demo/Responsive-Fluid-Drag-and-Drop-Grid-Layout-with
 http://draggabilly.desandro.com/
 http://www.jqueryscript.net/demo/Creating-Sortable-Editable-Lists-with-jQuery-jQuery-UI/
 
+
+====================================================================
+floating panel
+http://www.jqueryscript.net/other/jQuery-Plugin-To-Create-Multifunctional-Floating-Panels-jsPanel.html
 ===================================================================
 for uneven div
 
