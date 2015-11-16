@@ -62,7 +62,7 @@ http://codepen.io/phenax/pen/BNGjBO
 drag and move a div
 
 http://www.jqueryscript.net/demo/Responsive-Fluid-Drag-and-Drop-Grid-Layout-with-jQuery-gridstack-js/
-
+http://draggabilly.desandro.com/
 ===================================================================
 for uneven div
 
