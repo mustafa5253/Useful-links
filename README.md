@@ -231,6 +231,7 @@ file upload js
 http://demo.tutorialzine.com/2013/05/mini-ajax-file-upload-form/
 http://www.dropzonejs.com/
 http://designscrazed.org/html5-jquery-file-upload-scripts/
+http://www.jqueryscript.net/form/Nice-Clean-File-Input-Plugin-With-jQuery-Bootstrap-3-Bootstrap-Fileinput.html
 
 use this for file upload 
 https://blueimp.github.io/jQuery-File-Upload/
@@ -266,6 +267,10 @@ blur modal
 http://labs.voronianski.com/jquery.avgrund.js/
 https://github.com/hakimel/avgrund/
 
+======================================================================
+range slider
+
+http://www.jqueryscript.net/demo/Flat-Style-Slider-Control-Plugin-For-jQuery-Flat-Slider/
 ======================================================================
 mobile drawer menu
 
