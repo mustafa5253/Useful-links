@@ -102,10 +102,11 @@ transition and transform
 http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-and-animations/
 =====================================================================
 
-for angular js
+for angular js with bootstrap and core
 
 http://ngmodules.org/modules/bootstrap
 http://ngmodules.org/
+http://www.code-sample.com/2014/09/angularjs-documentation.html
 =========================================================================
 for javascript plugins
 
