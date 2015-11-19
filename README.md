@@ -101,6 +101,11 @@ transition and transform
 
 http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-and-animations/
 =====================================================================
+
+for angular js
+
+http://ngmodules.org/
+=========================================================================
 for javascript plugins
 
 http://www.netzgesta.de
