@@ -104,6 +104,7 @@ http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-a
 
 for angular js
 
+http://ngmodules.org/modules/bootstrap
 http://ngmodules.org/
 =========================================================================
 for javascript plugins
