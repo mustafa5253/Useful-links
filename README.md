@@ -107,6 +107,7 @@ for angular js with bootstrap and core
 http://ngmodules.org/modules/bootstrap
 http://ngmodules.org/
 http://www.code-sample.com/2014/09/angularjs-documentation.html
+http://plnkr.co/users/PascalPrecht
 =========================================================================
 for javascript plugins
 
