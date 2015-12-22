@@ -258,6 +258,10 @@ https://tinypng.com/
 
 ========================================================================
 
+mobile component for website
+
+http://demo.mobiscroll.com/scroller/customunits/
+========================================================================
 mobile device information
 http://mydevice.io/devices/
 http://www.emirweb.com/ScreenDeviceStatistics.php
