@@ -55,6 +55,9 @@ image loader
 http://jonobr1.github.io/stalactite/
 
 ===================================================================
+div checker
+http://jona.ca/blog/unclosed-tag-finder
+=====================================================================
 
 right click menu
 http://codepen.io/phenax/pen/BNGjBO
