@@ -68,6 +68,9 @@ http://www.jqueryscript.net/demo/Responsive-Fluid-Drag-and-Drop-Grid-Layout-with
 http://draggabilly.desandro.com/
 http://www.jqueryscript.net/demo/Creating-Sortable-Editable-Lists-with-jQuery-jQuery-UI/
 
+//stiky header table and responsive table
+
+http://tympanus.net/codrops/2014/01/09/sticky-table-headers-columns/
 
 ====================================================================
 floating panel
