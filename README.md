@@ -749,5 +749,5 @@ byfriday6@gmail.com / byfriday2141
 
 # Tooltip
 http://qtip2.com/demos
-http://iamceege.github.io/tooltipster/
-http://bootstraptour.com/
+tooltip: http://iamceege.github.io/tooltipster/
+Web page Bootstrap tour: http://bootstraptour.com/
