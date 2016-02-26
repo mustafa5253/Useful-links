@@ -747,6 +747,7 @@ http://tutorialzine.com/2015/01/your-first-node-webkit-app/
 
 byfriday6@gmail.com / byfriday2141
 
-
-#http://qtip2.com/demos
+# Tooltip
+http://qtip2.com/demos
 http://iamceege.github.io/tooltipster/
+http://bootstraptour.com/
