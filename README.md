@@ -747,7 +747,8 @@ http://tutorialzine.com/2015/01/your-first-node-webkit-app/
 
 byfriday6@gmail.com / byfriday2141
 
-# Tooltip
+#Tooltip
 http://qtip2.com/demos
 tooltip: http://iamceege.github.io/tooltipster/
 Web page Bootstrap tour: http://bootstraptour.com/
+page Tour: http://zurb.com/playground/jquery-joyride-feature-tour-plugin
