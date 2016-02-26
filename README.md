@@ -748,31 +748,4 @@ http://tutorialzine.com/2015/01/your-first-node-webkit-app/
 byfriday6@gmail.com / byfriday2141
 
 
-
-<table id="table" border="1">
-  <tbody>
-    <tr>
-      <td>Elders </td>
-      <td>Change</td>
-      <td>Direction</td>
-    </tr>
-    <tr>
-      <td>Youth</td>
-      <td>Harmony</td>
-      <td>Future</td>
-    </tr>
-    <tr>
-      <td>Tranquility</td>
-      <td>Fame</td>
-      <td>Romance</td>
-    </tr>
-  </tbody>
-</table>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>
-$("#table").on("click", "td", function(event) {
-    event.preventDefault();
-    alert($(this).text());
-});
-</script>
-
+#http://qtip2.com/demos
