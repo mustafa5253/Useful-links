@@ -752,3 +752,6 @@ http://qtip2.com/demos
 tooltip: http://iamceege.github.io/tooltipster/
 Web page Bootstrap tour: http://bootstraptour.com/
 page Tour: http://zurb.com/playground/jquery-joyride-feature-tour-plugin
+
+#Rating
+http://jquer.in/random-jquery-plugins-for-superior-websites/raterater/
