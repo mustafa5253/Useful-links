@@ -755,3 +755,6 @@ page Tour: http://zurb.com/playground/jquery-joyride-feature-tour-plugin
 
 #Rating
 http://jquer.in/random-jquery-plugins-for-superior-websites/raterater/
+
+#25 Best jQuery Notification plugins
+http://jqueryhouse.com/best-jquery-notification-plugins/
