@@ -767,3 +767,5 @@ https://enboard.co/frontend/
 
 #Free Resources
 http://www.site.uplabs.com/
+http://freedesignresources.net/
+https://ui8.net/
